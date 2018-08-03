@@ -1,0 +1,49 @@
+body,h2,h3,h4,h5,h6 {
+    font-family: font-family: 'Vast Shadow', cursive;
+    
+}
+body, html {
+    height: 100%;
+    line-height: 1.8;
+}
+/* Full height image header */
+.bgimg-1 {
+    background-position: center;
+    background-size: cover;
+    background-image: url("https://www.dccomics.com/sites/default/files/Movies-Gallery_JusticeLeague2017_WW_59f8be1fcea248.19685240.jpg");
+    min-height: 120%;
+}
+.w3-bar .w3-button {
+    padding: 16px;
+}
+h1{
+    font-family: 'Vast Shadow', cursive;
+}
+/*.*//*url("http://www.trinehac.com/wp-content/uploads/2017/09/African-American-women-in-Civil-Rights-movement-1078x516.jpg")*//**/
+
+#team {
+    position:relative;
+}
+#team  {
+    margin: 0;
+    position:relative;
+    top:0%;
+    left:10%;
+    bottom:20%;
+   
+   
+}
+
+.team5{
+    text-align:center;
+    padding-bottom:-60px;
+    
+}
+
+#copy {
+    width:10px;
+    height:10px;
+    
+    margin-top:115vh;
+    margin-left:97vw;
+}

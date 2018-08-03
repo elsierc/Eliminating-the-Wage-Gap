@@ -1,0 +1,22 @@
+body{text-align: center;
+background: black}
+
+#medic{color: white;
+  font-size: 35px;
+  font-family: 'Diplomata SC';}
+
+#field{color: #00A86B;
+  font-family: 'Hammersmith One';
+font-size: 25px}
+
+#gender{color: #FF2800;
+font-size: 30px;
+font-family: 'Marko One'}
+
+#gap{color: #0080FE;
+  font-family: 'Homenaje';
+  font-size: 22px;}
+
+#give_it{color: #0080FE;
+  font-family: 'Homenaje';
+  font-size: 29px;}

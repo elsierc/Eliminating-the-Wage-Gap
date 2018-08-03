@@ -1,0 +1,47 @@
+body{
+  text-align: center;
+  color: black;}
+
+#teacher{color: white;
+font-size: 35px;
+  font-family: 'Diplomata SC';}
+
+#intro{color: #00A86B;
+font-family: 'Hammersmith One';
+  font-size: 25px}
+
+#gender{color: #FF2800;
+font-size: 30px;
+font-family: 'Marko One'}
+
+#gap{color: #0080FE;
+  font-family: 'Homenaje';
+  font-size: 22px;
+  word-spacing: 3px}
+
+#cons{color: #FF2800;
+  font-size: 30px;
+  font-family: 'Marko One';}
+
+#bad{color: #0080FE;
+font-family: 'Homenaje';
+font-size: 22px;
+word-spacing: 3px}
+
+#pros{color: #FF2800;
+font-size: 30px;
+font-family: 'Marko One';}
+
+#good{color: #0080FE;
+font-family: 'Homenaje';
+font-size: 22px;
+word-spacing: 3px}
+
+#good-end{color: #0080FE;
+font-family: 'Homenaje';
+font-size: 30px;
+  word-spacing: 3px}
+
+html { 
+  background: black;
+  background-size: cover;}

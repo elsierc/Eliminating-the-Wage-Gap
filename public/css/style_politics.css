@@ -1,0 +1,22 @@
+body{text-align: center;
+background: black}
+
+#politics{color: white;
+  font-size: 35px;
+  font-family: 'Diplomata SC';}
+
+#intro{color: #00A86B;
+  font-family: 'Hammersmith One';
+font-size: 25px}
+
+#gender-title{color: #FF2800;
+font-size: 30px;
+font-family: 'Marko One'}
+
+#gap{color: #0080FE;
+  font-family: 'Homenaje';
+  font-size: 22px;}
+
+#give_it{color: #0080FE;
+  font-family: 'Homenaje';
+  font-size: 29px;}
